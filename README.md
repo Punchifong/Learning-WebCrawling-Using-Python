@@ -1,5 +1,6 @@
 # Learning-WebCrawling-Using-Python
-This is my web learning Journey. For this is section we will be dived into Crawler using Python~
+Sharing of My individual learning experience of Web-Crawling using Python. All little side projects below are only for learning purposes.
+Requests and Beautifulsaop are mainly used for the Projects. Pandas is for Graph demonstration use.
 
 ## Background Knowledge: Compliance
 - Copyright Problem
